@@ -30,3 +30,9 @@ Virtualization: VirtualBox / VMware
 Architecture: x86_64
 Development Tools: GCC, Make, Linux kernel headers
 Note: Modern kernels include protections that may prevent certain hooking techniques. This project explores these protections and their implications.
+
+## References
+
+- Xcellerator. "Linux Rootkits: New Methods for Kernel Hooking." 2020.  
+  https://xcellerator.github.io/posts/linux_rootkits/
+
